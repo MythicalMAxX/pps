@@ -2,14 +2,15 @@ Recurssion
 Recurssion is a method which calls the same function directly or inderctly until the given condition is true. Recurssion can also run infinetely if no conditions is privided.
 
 For example1. Recurssion using int function.
-
-```int func(){
+```c
+   int func(){
      body;
      if (condition)
        return func();
      else
        return 0;
-     }```
+     }
+```
  
 So what does the above function does🤔?
 this functions calls itself until it's condition is true

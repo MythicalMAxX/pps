@@ -1,4 +1,4 @@
-#Program Name: Program to find product of n!.
+//Program Name: Program to find product of n!.
 
 
 #include<stdio.h>

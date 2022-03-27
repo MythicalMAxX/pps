@@ -3,13 +3,13 @@ Recurssion is a method which calls the same function directly or inderctly until
 
 For example1. Recurssion using int function.
 
-int func(){
-  body;
-  if (condition)
-    return func();
-  else
-    return 0;
-  }
+```int func(){
+     body;
+     if (condition)
+       return func();
+     else
+       return 0;
+     }```
  
 So what does the above function does🤔?
 this functions calls itself until it's condition is true

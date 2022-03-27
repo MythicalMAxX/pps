@@ -1,4 +1,4 @@
-Recurssion
+**Recurssion:**
 Recurssion is a method which calls the same function directly or inderctly until the given condition is true. Recurssion can also run infinetely if no conditions is privided.
 
 For example1. Recurssion using int function.
